@@ -26,8 +26,8 @@ You Can Click Here To Go To The Project Website Directly [Temprature Wizard](htt
 
 To get started with Temperature Wizard, follow these steps:
 
-1. Clone the repository: `......`
-2. Navigate to the project directory: `....`
+1. Clone the repository: `(https://github.com/itsabhi-nav/oibsip_taskno-1.git)`
+2. Navigate to the project directory
 3. Open the `index.html` file in your web browser.
 
 ## Usage
